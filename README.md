@@ -1,1 +1,1 @@
-# GoiT_project_2
+goit-markup-hw-01
